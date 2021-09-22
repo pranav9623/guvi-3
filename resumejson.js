@@ -1,0 +1,233 @@
+const resume = {
+  basics: {
+    name: "Sai Pranav Kanakamedala",
+    label: "Master of IT Graduate",
+    picture: "",
+    email: "saipranav@gmail.com",
+    phone: "",
+    website: "",
+    summary:
+      "Seeking a position in life to utilize my skills and abilities and achieve professional growth while being resourceful, innovative and flexible. To add valuable assets to your esteemed organization as an active member.",
+    location: {
+      countryCode: "IN",
+      address: "India",
+    },
+    profiles: [
+      {
+        network: "LinkedIn",
+        username: "sai-pranav-kanakamedala",
+        url: "https://www.linkedin.com/in/sai-pranav-kanakamedala/",
+      },
+    ],
+  },
+  work: [
+    {
+      company: "Horizon IT Solutions",
+      endDate: "2021-03-31",
+      highlights: [],
+      position: "Web Developer",
+      startDate: "2020-01-31",
+      summary: null,
+      website: "https://www.linkedin.com/company/18986843",
+    },
+    {
+      company: "Secure Parking",
+      endDate: "2020-11-30",
+      highlights: [],
+      position: "Customer Service Officer",
+      startDate: "2019-10-31",
+      summary: null,
+      website: "https://www.linkedin.com/company/754241",
+    },
+    {
+      company: "Coles",
+      endDate: "2019-04-30",
+      highlights: [],
+      position: "Customer Service Staff",
+      startDate: "2018-10-31",
+      summary: null,
+      website: "https://www.linkedin.com/company/163144",
+    },
+    {
+      company: "JP Nextgen",
+      endDate: "2018-11-30",
+      highlights: [],
+      position: "Web Development Intern",
+      startDate: "2018-08-31",
+      summary: null,
+      website: "https://www.linkedin.com/company/14670554",
+    },
+  ],
+  volunteer: [],
+  education: [
+    {
+      institution: "Universal Institute of Technology",
+      area: "Information Technology",
+      studyType: "Professional Year Program",
+      startDate: "2019-12-31",
+      endDate: "2020-12-31",
+      gpa: "",
+      courses: [],
+    },
+    {
+      institution: "Deakin University",
+      area: "Information Technology",
+      studyType: "Master's degree",
+      startDate: "2017-12-31",
+      endDate: "2019-12-31",
+      gpa: "",
+      courses: [],
+    },
+    {
+      institution: "Gitam University, Hyderabad",
+      area: "Computer Science",
+      studyType: "Bachelor of Technology - BTech",
+      startDate: "2013-12-31",
+      endDate: "2017-12-31",
+      gpa: "",
+      courses: [],
+    },
+  ],
+  awards: [],
+  publications: [],
+  skills: [
+    {
+      name: "JavaScript",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Web Development",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Networking",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Research",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Microsoft Office",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "HTML5",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Dynamic Host Configuration Protocol (DHCP)",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Microsoft Word",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Technical Support",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Management",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "css3",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Troubleshooting",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Switches",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Creative Problem Solving",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "C",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Microsoft PowerPoint",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "printers",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "communication",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "C++",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Magento",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Customer Service",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Windows",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Communication",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Cisco Routers",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "C (Programming Language)",
+      level: "",
+      keywords: [],
+    },
+    {
+      name: "Team Leadership",
+      level: "",
+      keywords: [],
+    },
+  ],
+  languages: [
+    {
+      language: "en",
+      fluency: "Native Speaker",
+    },
+  ],
+  interests: [],
+  references: [],
+};
